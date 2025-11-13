@@ -1,0 +1,1 @@
+// vendors page will be filled later
