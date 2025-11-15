@@ -1,2 +1,19 @@
-/* global styles */
-body { margin:0; padding:0; }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #F5F7FA;
+  color: #0A1A2F;
+}
+
+/* smooth underline animation for nav */
+a {
+  transition: color 0.2s ease;
+}
+
+input, select {
+  color: #0A1A2F;
+}
+
