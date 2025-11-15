@@ -195,4 +195,4 @@ export default function SchedulePage() {
     </div>
   );
 }
-// schedule page will be filled later
+
